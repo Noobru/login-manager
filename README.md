@@ -1,4 +1,4 @@
-# Gerenciador de Contas de Jogo - AutoLogin Script
+# Gerenciador de Contas do Tibia - AutoLogin Script
 
 Este script AutoHotkey oferece uma solução automatizada para gerenciar e acessar múltiplas contas no Tibia. 
 Utilizando uma interface gráfica de usuário (GUI) intuitiva, o script simplifica o processo de login, tornando-o rápido e eficiente.
